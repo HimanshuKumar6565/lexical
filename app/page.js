@@ -47,7 +47,7 @@ export default function Home() {
     <div className="min-h-screen bg-white dark:bg-gray-900 flex items-center justify-center p-4 sm:p-8">
       <main className="w-full max-w-2xl">
         <h1 className="text-2xl font-medium text-gray-900 dark:text-white mb-8 text-center">
-          Text Simplification
+          Lexical text Simplification
         </h1>
 
         <div className="space-y-4">
